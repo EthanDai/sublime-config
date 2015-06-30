@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Package Control",
+		"phpfmt",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
